@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: django-blockchain
+Version: 0.0.1
+Summary: Wrap the Blockchain API in Django.
+Home-page: https://github.com/null-none/django-blockchain
+Author: Markus Törnqvist
+Author-email: kalinin.mitko@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
