@@ -5,7 +5,7 @@ from distutils.core import setup
 
 setup(
     name="django-blockchain",
-    version="0.0.1",
+    version="1.0.1",
     description="Wrap the Blockchain API in Django.",
     url="https://github.com/null-none/django-blockchain",
     author=u"Markus Törnqvist",
