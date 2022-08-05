@@ -24,11 +24,6 @@ class Transactions(models.Model):
         )
 
 
-from faker import Faker
-
-rand = Faker()
-
-
 class Block(models.Model):
     time_stamp = models.DateTimeField(auto_now_add=False)
     index = models.IntegerField(auto_created=True, blank=True)
